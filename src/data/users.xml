@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<users>
+
+    <user id="1">
+        <name>Artyomchik</name>
+        <tag>@artyomchik624</tag>
+    </user>
+
+    <user id="2">
+        <name>Hamster69</name>
+        <tag>@notesinbetween</tag>
+    </user>
+
+    <user id="3">
+        <name>Liza</name>
+        <tag>@lizo4k0</tag>
+    </user>
+    
+    <user id="4">
+        <name>&#x43D;&#x435;Liza</name>
+        <tag>@&#x442;&#x43E;&#x447;&#x43D;&#x43E;&#x41D;&#x435;lizo4k0</tag>
+    </user>
+        
+
+</users>
