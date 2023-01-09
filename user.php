@@ -48,7 +48,7 @@
             <img id = "hamburger" src = "src/icons/menu.svg">
             
             <div class="menu-content">
-                <a href = "list.php">manage accounts</a>
+                <a href = "index.php">manage accounts</a>
                 <a href = "create.php">create account</a>
             </div>
             
